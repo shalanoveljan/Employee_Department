@@ -1,0 +1,15 @@
+C:\Users\OMEN\Desktop\VS Code\EmployeeDepartment\bin\Debug\net7.0\EmployeeDepartment.exe
+C:\Users\OMEN\Desktop\VS Code\EmployeeDepartment\bin\Debug\net7.0\EmployeeDepartment.deps.json
+C:\Users\OMEN\Desktop\VS Code\EmployeeDepartment\bin\Debug\net7.0\EmployeeDepartment.runtimeconfig.json
+C:\Users\OMEN\Desktop\VS Code\EmployeeDepartment\bin\Debug\net7.0\EmployeeDepartment.dll
+C:\Users\OMEN\Desktop\VS Code\EmployeeDepartment\bin\Debug\net7.0\EmployeeDepartment.pdb
+C:\Users\OMEN\Desktop\VS Code\EmployeeDepartment\obj\Debug\net7.0\EmployeeDepartment.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\VS Code\EmployeeDepartment\obj\Debug\net7.0\EmployeeDepartment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\VS Code\EmployeeDepartment\obj\Debug\net7.0\EmployeeDepartment.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\VS Code\EmployeeDepartment\obj\Debug\net7.0\EmployeeDepartment.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\VS Code\EmployeeDepartment\obj\Debug\net7.0\EmployeeDepartment.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\VS Code\EmployeeDepartment\obj\Debug\net7.0\EmployeeDepartment.dll
+C:\Users\OMEN\Desktop\VS Code\EmployeeDepartment\obj\Debug\net7.0\refint\EmployeeDepartment.dll
+C:\Users\OMEN\Desktop\VS Code\EmployeeDepartment\obj\Debug\net7.0\EmployeeDepartment.pdb
+C:\Users\OMEN\Desktop\VS Code\EmployeeDepartment\obj\Debug\net7.0\EmployeeDepartment.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\VS Code\EmployeeDepartment\obj\Debug\net7.0\ref\EmployeeDepartment.dll
